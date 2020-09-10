@@ -1,4 +1,4 @@
-# basic
+# basic-front
 
 ## Project setup
 ```
